@@ -1,0 +1,389 @@
+[
+  {
+    "name": "iPhone 15",
+    "category": "Electronics",
+    "price": 79999,
+    "quantity": 12,
+    "imageUrl": "/images/products/electronics/iphone15.png"
+  },
+  {
+    "name": "Samsung Galaxy S24",
+    "category": "Electronics",
+    "price": 74999,
+    "quantity": 10,
+    "imageUrl": "/images/products/electronics/galaxys24.png"
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "category": "Electronics",
+    "price": 62999,
+    "quantity": 6,
+    "imageUrl": "/images/products/electronics/dellinspiron15.png"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "category": "Electronics",
+    "price": 29999,
+    "quantity": 15,
+    "imageUrl": "/images/products/electronics/sonyxm5.png"
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "category": "Electronics",
+    "price": 42999,
+    "quantity": 8,
+    "imageUrl": "/images/products/electronics/applewatch9.png"
+  },
+  {
+    "name": "Canon EOS R10",
+    "category": "Electronics",
+    "price": 87999,
+    "quantity": 4,
+    "imageUrl": "/images/products/electronics/canoneosr10.png"
+  },
+  {
+    "name": "LG Smart TV 55",
+    "category": "Electronics",
+    "price": 68999,
+    "quantity": 5,
+    "imageUrl": "/images/products/electronics/lgsmarttv55.png"
+  },
+  {
+    "name": "JBL Flip 6",
+    "category": "Electronics",
+    "price": 9999,
+    "quantity": 18,
+    "imageUrl": "/images/products/electronics/jblflip6.png"
+  },
+  {
+    "name": "PlayStation 5",
+    "category": "Electronics",
+    "price": 54999,
+    "quantity": 7,
+    "imageUrl": "/images/products/electronics/ps5.png"
+  },
+  {
+    "name": "Kindle Paperwhite",
+    "category": "Electronics",
+    "price": 13999,
+    "quantity": 10,
+    "imageUrl": "/images/products/electronics/kindlepaperwhite.png"
+  },
+
+  {
+    "name": "Atomic Habits",
+    "category": "Books",
+    "price": 499,
+    "quantity": 25,
+    "imageUrl": "/images/products/books/atomichabits.png"
+  },
+  {
+    "name": "Deep Work",
+    "category": "Books",
+    "price": 399,
+    "quantity": 20,
+    "imageUrl": "/images/products/books/deepwork.png"
+  },
+  {
+    "name": "Clean Code",
+    "category": "Books",
+    "price": 699,
+    "quantity": 14,
+    "imageUrl": "/images/products/books/cleancode.png"
+  },
+  {
+    "name": "The Psychology of Money",
+    "category": "Books",
+    "price": 450,
+    "quantity": 18,
+    "imageUrl": "/images/products/books/psychologyofmoney.png"
+  },
+  {
+    "name": "The Alchemist",
+    "category": "Books",
+    "price": 299,
+    "quantity": 22,
+    "imageUrl": "/images/products/books/thealchemist.png"
+  },
+  {
+    "name": "Harry Potter Box Set",
+    "category": "Books",
+    "price": 2499,
+    "quantity": 9,
+    "imageUrl": "/images/products/books/harrypotterbox.png"
+  },
+  {
+    "name": "Rich Dad Poor Dad",
+    "category": "Books",
+    "price": 349,
+    "quantity": 21,
+    "imageUrl": "/images/products/books/richdadpoordad.png"
+  },
+  {
+    "name": "Introduction to Algorithms",
+    "category": "Books",
+    "price": 3999,
+    "quantity": 5,
+    "imageUrl": "/images/products/books/clrs.png"
+  },
+
+  {
+    "name": "Men's Black Hoodie",
+    "category": "Apparel",
+    "price": 1499,
+    "quantity": 20,
+    "imageUrl": "/images/products/apparel/blackhoodie.png"
+  },
+  {
+    "name": "Women's Denim Jacket",
+    "category": "Apparel",
+    "price": 2499,
+    "quantity": 12,
+    "imageUrl": "/images/products/apparel/denimjacket.png"
+  },
+  {
+    "name": "Nike Running Shoes",
+    "category": "Apparel",
+    "price": 5999,
+    "quantity": 10,
+    "imageUrl": "/images/products/apparel/nikerunningshoes.png"
+  },
+  {
+    "name": "Adidas Track Pants",
+    "category": "Apparel",
+    "price": 2199,
+    "quantity": 14,
+    "imageUrl": "/images/products/apparel/adidastrackpants.png"
+  },
+  {
+    "name": "Formal White Shirt",
+    "category": "Apparel",
+    "price": 1799,
+    "quantity": 18,
+    "imageUrl": "/images/products/apparel/whiteformalshirt.png"
+  },
+  {
+    "name": "Leather Wallet",
+    "category": "Apparel",
+    "price": 999,
+    "quantity": 25,
+    "imageUrl": "/images/products/apparel/leatherwallet.png"
+  },
+  {
+    "name": "Casual Sneakers",
+    "category": "Apparel",
+    "price": 2999,
+    "quantity": 16,
+    "imageUrl": "/images/products/apparel/casualsneakers.png"
+  },
+  {
+    "name": "Winter Beanie",
+    "category": "Apparel",
+    "price": 499,
+    "quantity": 30,
+    "imageUrl": "/images/products/apparel/winterbeanie.png"
+  },
+
+  {
+    "name": "Surf Excel Detergent",
+    "category": "Home Care",
+    "price": 599,
+    "quantity": 28,
+    "imageUrl": "/images/products/homecare/surfexcel.png"
+  },
+  {
+    "name": "Lizol Floor Cleaner",
+    "category": "Home Care",
+    "price": 249,
+    "quantity": 35,
+    "imageUrl": "/images/products/homecare/lizol.png"
+  },
+  {
+    "name": "Harpic Toilet Cleaner",
+    "category": "Home Care",
+    "price": 199,
+    "quantity": 32,
+    "imageUrl": "/images/products/homecare/harpic.png"
+  },
+  {
+    "name": "Vim Dishwash Gel",
+    "category": "Home Care",
+    "price": 180,
+    "quantity": 40,
+    "imageUrl": "/images/products/homecare/vimgel.png"
+  },
+  {
+    "name": "Microfiber Cleaning Cloth",
+    "category": "Home Care",
+    "price": 299,
+    "quantity": 24,
+    "imageUrl": "/images/products/homecare/microfibercloth.png"
+  },
+  {
+    "name": "Air Freshener Spray",
+    "category": "Home Care",
+    "price": 349,
+    "quantity": 18,
+    "imageUrl": "/images/products/homecare/airfreshener.png"
+  },
+
+  {
+    "name": "Nivea Body Lotion",
+    "category": "Personal Care",
+    "price": 399,
+    "quantity": 26,
+    "imageUrl": "/images/products/personalcare/nivealotion.png"
+  },
+  {
+    "name": "Dove Shampoo",
+    "category": "Personal Care",
+    "price": 299,
+    "quantity": 22,
+    "imageUrl": "/images/products/personalcare/doveshampoo.png"
+  },
+  {
+    "name": "Minimalist Face Wash",
+    "category": "Personal Care",
+    "price": 349,
+    "quantity": 19,
+    "imageUrl": "/images/products/personalcare/minimalistfacewash.png"
+  },
+  {
+    "name": "Philips Trimmer",
+    "category": "Personal Care",
+    "price": 1999,
+    "quantity": 11,
+    "imageUrl": "/images/products/personalcare/philipstrimmer.png"
+  },
+  {
+    "name": "Oral-B Toothbrush",
+    "category": "Personal Care",
+    "price": 149,
+    "quantity": 40,
+    "imageUrl": "/images/products/personalcare/oralb.png"
+  },
+  {
+    "name": "Mamaearth Face Cream",
+    "category": "Personal Care",
+    "price": 499,
+    "quantity": 17,
+    "imageUrl": "/images/products/personalcare/mamaearthcream.png"
+  },
+
+  {
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 899,
+    "quantity": 15,
+    "imageUrl": "/images/products/fitness/yogamat.png"
+  },
+  {
+    "name": "Dumbbell Set 10kg",
+    "category": "Fitness",
+    "price": 3499,
+    "quantity": 8,
+    "imageUrl": "/images/products/fitness/dumbbell10kg.png"
+  },
+  {
+    "name": "Resistance Bands",
+    "category": "Fitness",
+    "price": 699,
+    "quantity": 20,
+    "imageUrl": "/images/products/fitness/resistancebands.png"
+  },
+  {
+    "name": "Skipping Rope",
+    "category": "Fitness",
+    "price": 299,
+    "quantity": 30,
+    "imageUrl": "/images/products/fitness/skippingrope.png"
+  },
+
+  {
+    "name": "Office Chair",
+    "category": "Furniture",
+    "price": 7999,
+    "quantity": 6,
+    "imageUrl": "/images/products/furniture/officechair.png"
+  },
+  {
+    "name": "Study Table",
+    "category": "Furniture",
+    "price": 5999,
+    "quantity": 5,
+    "imageUrl": "/images/products/furniture/studytable.png"
+  },
+  {
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 4499,
+    "quantity": 4,
+    "imageUrl": "/images/products/furniture/bookshelf.png"
+  },
+  {
+    "name": "Bean Bag",
+    "category": "Furniture",
+    "price": 2499,
+    "quantity": 9,
+    "imageUrl": "/images/products/furniture/beanbag.png"
+  },
+
+  {
+    "name": "Ceramic Coffee Mug",
+    "category": "Kitchen",
+    "price": 299,
+    "quantity": 28,
+    "imageUrl": "/images/products/kitchen/coffeemug.png"
+  },
+  {
+    "name": "Non-Stick Frying Pan",
+    "category": "Kitchen",
+    "price": 1499,
+    "quantity": 10,
+    "imageUrl": "/images/products/kitchen/fryingpan.png"
+  },
+  {
+    "name": "Electric Kettle",
+    "category": "Kitchen",
+    "price": 1299,
+    "quantity": 13,
+    "imageUrl": "/images/products/kitchen/electrickettle.png"
+  },
+  {
+    "name": "Knife Set",
+    "category": "Kitchen",
+    "price": 899,
+    "quantity": 15,
+    "imageUrl": "/images/products/kitchen/knifeset.png"
+  },
+
+  {
+    "name": "Pilot Pen Pack",
+    "category": "Office Supplies",
+    "price": 199,
+    "quantity": 50,
+    "imageUrl": "/images/products/officesupplies/pilotpens.png"
+  },
+  {
+    "name": "A4 Notebook Set",
+    "category": "Office Supplies",
+    "price": 349,
+    "quantity": 40,
+    "imageUrl": "/images/products/officesupplies/notebookset.png"
+  },
+  {
+    "name": "Stapler Machine",
+    "category": "Office Supplies",
+    "price": 249,
+    "quantity": 18,
+    "imageUrl": "/images/products/officesupplies/stapler.png"
+  },
+  {
+    "name": "Desk Organizer",
+    "category": "Office Supplies",
+    "price": 599,
+    "quantity": 14,
+    "imageUrl": "/images/products/officesupplies/deskorganizer.png"
+  }
+]
+
